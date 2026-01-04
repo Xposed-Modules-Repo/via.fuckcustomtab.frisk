@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/hina.jpg" style="width:100%; height:auto; max-width:800px;">
+<img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/hina.jpg" width="250" height="250" />
   
 # FuckViaCustomTab
 **去他妈的Via应用内浏览器（自定义标签）**
-
 </div>
 
 # 作用
