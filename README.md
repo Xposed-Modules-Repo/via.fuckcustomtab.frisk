@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./docs/hina.jpg" style="width:100%; height:auto; max-width:800px;">
+<img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/hina.jpg" style="width:100%; height:auto; max-width:800px;">
   
 # FuckViaCustomTab
 **去他妈的Via应用内浏览器（自定义标签）**
@@ -12,10 +12,10 @@ Via在版本6.9.0适配了链接应用内打开 导致想要使用浏览器内�
 # 效果
 - 使用前
 <p align="center">
-  <img src="./docs/before.jpg" style="width:100%; height:auto; max-width:800px;">
+  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/before.jpg" style="width:100%; height:auto; max-width:800px;">
 </p>
 
 - 使用后
 <p align="center">
-  <img src="./docs/after.jpg" style="width:100%; height:auto; max-width:800px;">
+  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/after.jpg" style="width:100%; height:auto; max-width:800px;">
 </p>
