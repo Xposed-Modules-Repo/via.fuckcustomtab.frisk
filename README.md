@@ -2,7 +2,7 @@
 <img src="./docs/hina.jpg" style="width:100%; height:auto; max-width:800px;">
   
 # FuckViaCustomTab
-**去他妈的Via应用内浏览器**
+**去他妈的Via应用内浏览器（自定义标签）**
 
 </div>
 
