@@ -38,4 +38,4 @@ Via 在版本 6.9.0 适配了链接应用内打开 导致想要使用浏览器�
 
 | 使用前 | 使用后 |
 | --- | --- |
-| <img src="./before.jpg" width="380" alt="Before" /> | <img src="./after.jpg" width="380" alt="After" /> |
+| <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/before.jpg" alt="Before" width="380" /> | <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/after.jpg" alt="After" width="380" /> |
