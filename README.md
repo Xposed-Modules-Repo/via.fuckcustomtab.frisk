@@ -1,29 +1,41 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/hina.jpg" width="250" height="250" />
+  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/hina.jpg" width="250" height="250" alt="Hina" />
   
-# FuckCustomTab
-**去他妈的应用内浏览器（自定义标签）**
+  # FuckCustomTab
+  **去他妈的应用内浏览器**
 </div>
 
-# 作用
-阻止浏览器跳转链接时使用应用内浏览器（CustomTab）<br><br>已在
+---
 
- - Via（6.9.0）
- - Chrome（143.0.7499.192）
- - Edge（143.0.3650.139）
+## 作用
+阻止浏览器跳转链接时使用应用内浏览器（CustomTab）
 
-上测试通过 理论上支持所有使用CustomTab的浏览器
+理论上支持所有使用 CustomTab 的浏览器
 
-# ~~作用~~
-~~Via在版本6.9.0适配了链接应用内打开 导致想要使用浏览器内置的下载管理器等页面需要再点击一个按钮跳转到Via 非常繁琐 本模块用于移除此特性~~
+### 已测试
+| 浏览器 | 版本 |
+| --- | --- |
+| Via | 6.9.0 |
+| Chrome | 143.0.7499.192 |
+| Edge | 143.0.3650.139 |
 
-# 效果
-- 使用前
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/before.jpg" style="width:100%; height:auto; max-width:800px;">
+<details>
+<summary><strong>制作原因</strong></summary>
+
+<p></p>
+
+<p>
+Via 在版本 6.9.0 适配了链接应用内打开 导致想要使用浏览器内置的下载管理器等页面需要再点击一个按钮跳转到 Via 非常繁琐
 </p>
 
-- 使用后
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/after.jpg" style="width:100%; height:auto; max-width:800px;">
+<p>
+本模块用于移除此特性。
 </p>
+
+</details>
+
+## 效果
+
+| 使用前 | 使用后 |
+| --- | --- |
+| <img src="./before.jpg" width="380" alt="Before" /> | <img src="./after.jpg" width="380" alt="After" /> |
