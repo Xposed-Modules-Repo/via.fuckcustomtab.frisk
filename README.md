@@ -4,6 +4,7 @@
   # FuckCustomTab
   **去他妈的应用内浏览器**
   <br>
+  <br>
 [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/frisk1127/FuckCustomTab)
 [![下载次数](https://img.shields.io/github/downloads/Xposed-Modules-Repo/via.fuckcustomtab.frisk/total?color=yellow)](https://github.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/releases)
 </div>
