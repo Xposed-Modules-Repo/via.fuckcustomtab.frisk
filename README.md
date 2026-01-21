@@ -3,6 +3,9 @@
   
   # FuckCustomTab
   **去他妈的应用内浏览器**
+  <br>
+[![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/frisk1127/FuckCustomTab)
+[![下载次数](https://img.shields.io/github/downloads/Xposed-Modules-Repo/via.fuckcustomtab.frisk/total?color=yellow)](https://github.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/releases)
 </div>
 
 ---
@@ -16,8 +19,12 @@
 | 浏览器 | 版本 |
 | --- | --- |
 | Via | 6.9.0 |
-| Chrome | 143.0.7499.192 |
 | Edge | 143.0.3650.139 |
+| Chrome | 143.0.7499.192 |
+
+## 如果不适配你的浏览器
+
+如果本模块没有适配你使用的浏览器，欢迎 [提交 Issue](https://github.com/frisk1127/FuckCustomTab/issues)，我会尽快处理
 
 <details>
 <summary><strong>制作原因</strong></summary>
