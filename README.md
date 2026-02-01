@@ -50,6 +50,8 @@ Via 在版本 6.9.0 适配了链接应用内打开 导致想要使用浏览器�
 
 ---
 
+<a id="english"></a>
+
 ## English
 
 ### Purpose
