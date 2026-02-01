@@ -6,7 +6,7 @@
   <br>
 [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/frisk1127/FuckCustomTab)
 [![下载次数](https://img.shields.io/github/downloads/Xposed-Modules-Repo/via.fuckcustomtab.frisk/total?color=yellow)](https://github.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/releases)
-  <p><strong>中文</strong> | <a href="#english">English</a></p>
+  <p><strong>简体中文</strong> | <a href="#english">English</a></p>
 </div>
 
 ---
@@ -90,3 +90,4 @@ This module removes that behavior.
 | Before | After |
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/before.jpg" alt="Before" width="380" /> | <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/after.jpg" alt="After" width="380" /> |
+
