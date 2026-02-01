@@ -68,7 +68,7 @@ In theory, it supports all browsers that use CustomTabs.
 
 ## If it does not support your browser
 
-If this module does not support your browser, feel free to [open an Issue](https://github.com/frisk1127/FuckCustomTab/issues). I will handle it as soon as possible.
+If this module does not support your browser, feel free to [file an Issue](https://github.com/frisk1127/FuckCustomTab/issues). I will handle it as soon as possible.
 
 <details>
 <summary><strong>Why I made this</strong></summary>
@@ -90,4 +90,5 @@ This module removes that behavior.
 | Before | After |
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/before.jpg" alt="Before" width="380" /> | <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/after.jpg" alt="After" width="380" /> |
+
 
