@@ -16,6 +16,8 @@
 
 理论上支持所有使用 CustomTab 的浏览器
 
+注: Via 已在 7.0.0 支持关闭 CustomTab 请使用 Via 内置选项 （ 设置 → 高级 → 禁用 Custom Tabs ）
+
 ### 已测试
 | 浏览器 | 版本 |
 | --- | --- |
@@ -93,6 +95,7 @@ This module removes that behavior.
 
 ## Stars
 [![Stargazers over time](https://starchart.cc/frisk1127/FuckCustomTab.svg?background=%23FFFFFF&axis=%23333333&line=%236b63ff)]([https://starchart.cc/Xposed-Modules-Repo/sama.october.FuckTapVerify](https://github.com/frisk1127/FuckCustomTab))
+
 
 
 
