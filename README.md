@@ -12,7 +12,7 @@
 ---
 
 ## 作用
-阻止浏览器跳转链接时使用应用内浏览器（CustomTab）
+阻止浏览器跳转链接时使用应用内浏览器（ CustomTab ）
 
 理论上支持所有使用 CustomTab 的浏览器
 
@@ -95,6 +95,7 @@ This module removes that behavior.
 
 ## Stars
 [![Stargazers over time](https://starchart.cc/frisk1127/FuckCustomTab.svg?background=%23FFFFFF&axis=%23333333&line=%236b63ff)]([https://starchart.cc/Xposed-Modules-Repo/sama.october.FuckTapVerify](https://github.com/frisk1127/FuckCustomTab))
+
 
 
 
