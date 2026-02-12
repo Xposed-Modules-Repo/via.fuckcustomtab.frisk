@@ -61,6 +61,8 @@ Block browsers from opening links with in-app browsers (CustomTabs).
 
 In theory, it supports all browsers that use CustomTabs.
 
+Note: Since version 7.0.0, Via natively supports disabling Custom Tabs. Please use the built-in option (Settings → Advanced → Disable Custom Tabs).
+
 ### Tested
 | Browser | Version |
 | --- | --- |
@@ -95,6 +97,7 @@ This module removes that behavior.
 
 ## Stars
 [![Stargazers over time](https://starchart.cc/frisk1127/FuckCustomTab.svg?background=%23FFFFFF&axis=%23333333&line=%236b63ff)]([https://starchart.cc/Xposed-Modules-Repo/sama.october.FuckTapVerify](https://github.com/frisk1127/FuckCustomTab))
+
 
 
 
