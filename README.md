@@ -96,7 +96,8 @@ This module removes that behavior.
 | <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/before.jpg" alt="Before" width="380" /> | <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/via.fuckcustomtab.frisk/refs/heads/main/docs/after.jpg" alt="After" width="380" /> |
 
 ## Stars
-[![Stargazers over time](https://starchart.cc/frisk1127/FuckCustomTab.svg?background=%23FFFFFF&axis=%23333333&line=%236b63ff)]([https://starchart.cc/Xposed-Modules-Repo/via.fuckcustomtab.frisk](https://github.com/frisk1127/FuckCustomTab))
+[![Stargazers over time](https://starchart.cc/frisk1127/FuckCustomTab.svg?background=%23FFFFFF&axis=%23333333&line=%236b63ff)]([https://starchart.cc/frisk1127/FuckCustomTab](https://github.com/frisk1127/FuckCustomTab))
+
 
 
 
